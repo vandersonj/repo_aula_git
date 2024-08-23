@@ -1,4 +1,8 @@
 Adicionando arquivo main
 Nova Linha Repo Remoto
 Nova linha no arquivo main txt
+
 nova linha local fecht 
+
+Nova linha remoto fecht
+
