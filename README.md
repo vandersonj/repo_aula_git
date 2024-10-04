@@ -29,7 +29,7 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 	git config --global user.name "Leonardo Comelli"
 
 ##### Setar email
-	git config --global user.email leonardo@software-ltda.com.br
+	git config --global user.email username@domain.com.br
 	
 ##### Setar editor
 	git config --global core.editor vim
